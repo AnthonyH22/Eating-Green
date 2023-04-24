@@ -20,7 +20,7 @@ body {
   font-family: 'Café Françoise', sans-serif;
   background: linear-gradient(to left, #ffc16b 25%, #6ffba0 75%);
   animation: .1s linear 1s infinite alternate slidein;
-  overflow:hidden;
+  overflow:auto;
 }
 
 h2 {
