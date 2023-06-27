@@ -52,14 +52,16 @@ Blanched, garlic two times, tasty brown sauce..............................$8
 
 # DRINKS
 SOFT DRINKS
- 1. Coca-Cola
- 2. Diet Coke
- 3. Topo Chico
-WHITE WINE
- 1. Crisp
-RED WINE
- 1. Fancy
-BEER & SAKE
- 1. Fat Tire
- 2. Little Sumo Sake
+Coca-Cola
+Diet Coke
+Topo Chico
 
+WHITE WINE
+Crisp
+
+RED WINE
+Fancy
+
+BEER & SAKE
+Fat Tire
+Little Sumo Sake
