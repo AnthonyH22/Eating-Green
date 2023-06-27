@@ -1,11 +1,11 @@
 # Eating Green Design Coding Project
 
-Background
+# Background:
 As web developers and designers we are often called upon to design and build websites for clients.  Today you will be building a website for the Vegan Restaurant Eating Green.  Located in Williamsburg, Brooklyn, this hip chic and trendy restaurant, caters to young urban and hip patrons that prefer to go dairy and meat free.
 
 Their menu is simple and yet very interesting.   They have come to you to redesign their website so that they can increase their customer base.  They want a cool look that appeals to young people who have lots of disposable income and like to eat out. 
 
-Directions
+# Directions:
 Build an online menu that highlights the food and drink that Eating Green offers.  Use your current knowledge of CSS, HTML and JavaScript to make your website.
 
 You may use images from the internet to help you with the design of your website.  
