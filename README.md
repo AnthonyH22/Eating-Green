@@ -51,17 +51,17 @@ LITTLE BOK CHOYS
 Blanched, garlic two times, tasty brown sauce..............................$8
 
 # DRINKS
-SOFT DRINKS
-Coca-Cola
-Diet Coke
+SOFT DRINKS:
+Coca-Cola,
+Diet Coke,
 Topo Chico
 
-WHITE WINE
+WHITE WINE:
 Crisp
 
-RED WINE
+RED WINE:
 Fancy
 
-BEER & SAKE
-Fat Tire
+BEER & SAKE:
+Fat Tire,
 Little Sumo Sake
