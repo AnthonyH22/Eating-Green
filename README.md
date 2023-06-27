@@ -24,34 +24,42 @@ Audience
 
 Here is a list of their Menu items:
 
-CHEF'S SPECIALS
+# CHEF'S SPECIALS
 MUSHROOM SLOPPY
 Housemade sesame pancake bun, shroom ragu, Chinese slaw, cilantro.............$10
+
 RICE ROLLS
 Chubby white rice noodle, charred scallion, black vinegar, Chinese broccoli........$12
+
 RICE, BEANS, + GREENS
 Cilantro, ginger, scallion (GF)..........$9
-SIDES
+
+# SIDES
 GREEN SALAD
 Chinese ranch, Asian fines herbes, (GF)..............................$7
+
 SMASHED CUCUMBER
 Sesame dressing, leopard sauce....$8
+
 STICKY RICE DUMPLING
 Grandson style, chili crisp, cilantro,     4 pcs..............................$7
+
 SALT + PEPPER CAULI
 Fried, garlic, jalapeno, creamy shallot sauce (GF) .........................$9
+
 LITTLE BOK CHOYS
 Blanched, garlic two times, tasty brown sauce..............................$8
-DRINKS
+
+# DRINKS
 SOFT DRINKS
-Coca-Cola
-Diet Coke
-Topo Chico
+ 1. Coca-Cola
+ 2. Diet Coke
+ 3. Topo Chico
 WHITE WINE
-Crisp
+ 1. Crisp
 RED WINE
-Fancy
+ 1. Fancy
 BEER & SAKE
-Fat Tire
-Little Sumo Sake
+ 1. Fat Tire
+ 2. Little Sumo Sake
 
